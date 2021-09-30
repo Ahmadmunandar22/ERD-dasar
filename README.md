@@ -1,0 +1,2 @@
+# ERD-dasar
+beajar ERD
